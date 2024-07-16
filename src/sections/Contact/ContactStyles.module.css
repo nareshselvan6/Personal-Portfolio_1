@@ -81,3 +81,12 @@ input[type='submit']:active {
     width: 800px;
   }
 }
+
+@media only screen and (max-width: 550px)  {
+
+span{
+  font-size: large;
+  overflow-x: scroll;
+}
+
+}

@@ -29,6 +29,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 60px;
+  margin-top: 35px;
 }
 
 h1,

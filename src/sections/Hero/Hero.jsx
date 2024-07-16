@@ -22,7 +22,7 @@ function Hero() {
 
   return (
     <section id="hero" className={styles.container}>
-      <div className={styles.colorModeContainer}>
+      <div  className={styles.colorModeContainer}>
         <img
           src={hero}
           className={styles.hero }
