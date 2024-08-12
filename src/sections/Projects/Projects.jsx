@@ -18,12 +18,16 @@ function Projects() {
           link="https://todolist-five-lyart.vercel.app/"
           h3="TODO LIST"
           p="Fullstack Entry Level project"
+          FE="https://github.com/nareshselvan6/Todolist"
+          BE="https://github.com/nareshselvan6/TodoBackend"
         />
 <ProjectCard
   src={library}
   link="https://librarymanagement-rct.netlify.app/"
   h3="Library Management"
   p="Fullstack Intermediate Level project"
+  FE="https://github.com/nareshselvan6/Library_managament_FrontEnd"
+  BE="https://github.com/nareshselvan6/Library_managament_BackEnd"
 />
 
         
@@ -32,12 +36,16 @@ function Projects() {
   link="https://coffee-shop-frontend-vert.vercel.app/"
   h3="Coffee Shop"
   p="Fullstack Professional Level project"
+  FE="https://github.com/nareshselvan6/coffee_shop_frontend"
+  BE="https://github.com/nareshselvan6/coffee_shop_backend"
 />
       <ProjectCard
           src={carcare}
           link="https://frontend-capstone-vehiclecare.netlify.app/"
           h3="TS CAR_CARE"
           p="FULLSTACK Company Level PROJECT"
+          FE="https://github.com/nareshselvan6/FrontEnd_CapStone_VehicleCare"
+          BE="https://github.com/nareshselvan6/BackEnd_CapStone_VehicleCare"
         />
 
     

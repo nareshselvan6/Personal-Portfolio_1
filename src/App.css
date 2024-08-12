@@ -107,3 +107,25 @@ p {
     }
   }
 }
+
+.FE_BE{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.FE,.BE{
+  background-color: var(--btn-color);
+        color: var(--btn-text-color);
+        border: none;
+        border-radius: 20px;
+        width: 126px;
+        height: 50px;
+        font-weight: bold;
+        box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+        transition: box-shadow 200ms ease-in-out, transform 200ms ease-in-out;
+}
+
+.FE,.BE:hover{
+  cursor: pointer;
+}
