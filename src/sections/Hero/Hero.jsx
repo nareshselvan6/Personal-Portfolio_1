@@ -54,7 +54,7 @@ function Hero() {
         <p className={styles.description}>
         "With a passion for crafting robust applications using MongoDB, Express, React, and Node.js, I deliver seamless user experiences and scalable backend solutions."
         </p>
-        <a href="https://drive.google.com/file/d/1x_YzRYtH6D0teBZBT6xCmXME2jkeb7Wh/view?usp=sharing" target='_blank'>
+        <a href="https://drive.google.com/file/d/1cEs3x9-QA0EhUTMfGj6T3EE7lcO5KuZO/view?usp=sharing" target='_blank'>
           <button className="hover">Resume</button>
         </a>
       </div>

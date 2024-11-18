@@ -4,6 +4,7 @@ import carcare from"../../assets/carcare.png"
 import coffeeshop from "../../assets/coffeeshopimg.jpg"
 import library from "../../assets/library2.jpg"
 import todolist from "../../assets/todolist.png"
+import ai_receipe from"../../assets/ai_receipe_maker.png"
 import url from '../../assets/url.jpg';
 import ProjectCard from '../../common/ProjectCard';
 
@@ -47,7 +48,14 @@ function Projects() {
           FE="https://github.com/nareshselvan6/FrontEnd_CapStone_VehicleCare"
           BE="https://github.com/nareshselvan6/BackEnd_CapStone_VehicleCare"
         />
-
+<ProjectCard
+  src={ai_receipe}
+  link="https://a-ireceipe-maker.vercel.app/"
+  h3="AI Culinary Companion "
+  p="Fullstack Professional Level project"
+  FE="https://github.com/nareshselvan6/AIreceipe_maker"
+  BE="https://github.com/nareshselvan6/AIreceipe_maker-Backend_gemini"
+/>
     
       </div>
     </section>
