@@ -1,6 +1,7 @@
 import styles from './HeroStyles.module.css';
 import heroImg from '../../assets/Design uten navn.png';
-import hero from"../../assets/hero.png";
+import hero from"../../assets/hero.png"; 
+import hero2 from"../../assets/hero2.png";
 import sun from '../../assets/sun.svg';
 import moon from '../../assets/moon.svg';
 import twitterLight from '../../assets/twitter-light.svg';
@@ -24,7 +25,7 @@ function Hero() {
     <section id="hero" className={styles.container}>
       <div  className={styles.colorModeContainer}>
         <img
-          src={hero}
+          src={hero2}
           className={styles.hero }
           alt="Profile picture of Tamilselvan"
         />
